@@ -3,7 +3,6 @@
   <head>
    <title>Travel</title>
    <meta name="viewport" content="width=device-width, initial-scale=1">
-   <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
    <script type="text/javascript" src="pioneerprize.js"></script>
 
   </head>
@@ -54,7 +53,7 @@
 <input type=radio name=choice id="climate" value=Mediterranean>Mediterranean
 <input type=radio name=choice id="climate" value=Continental>Continental
 <input type=radio name=choice id="climate" value=HumidSubtropical>Humid Subtropical
-<input type=radio name=choice id="climate" value=Hot-summerMediterranean>Hot summer Mediterranean
+<input type=radio name=choice id="climate" value=Hot-summerMediterranean>Hot-summer Mediterranean
 <input type=radio name=choice id="climate" value=TropicalSavanna>Tropical Savanna
 
 </form>

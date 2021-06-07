@@ -58,6 +58,7 @@
 <input type=radio name=choice id="climate" value=TropicalSavanna>Tropical Savanna
 <input type=radio name=choice id="climate" value=Hot-summerMediterranean>Hot-summer Mediterranean
 
+  
 </form>
 <br>
 <form>

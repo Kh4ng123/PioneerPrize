@@ -54,7 +54,7 @@
 <input type=radio name=choice id="climate" value=Mediterranean>Mediterranean
 <input type=radio name=choice id="climate" value=Continental>Continental
 <input type=radio name=choice id="climate" value=HumidSubtropical>Humid Subtropical
-<input type=radio name=choice id="climate" value=Hot-summerMediterranean>Hot-summer Mediterranean
+<input type=radio name=choice id="climate" value=Hot-summerMediterranean>Hot summer Mediterranean
 <input type=radio name=choice id="climate" value=TropicalSavanna>Tropical Savanna
 
 </form>

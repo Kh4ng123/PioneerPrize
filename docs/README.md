@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
    <title>Travel</title>
-   <link rel="stylesheet" type="text/css" href="style.css">
+
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
    <script type="text/javascript" src="pioneerprize.js"></script>

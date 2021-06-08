@@ -1,3 +1,4 @@
+/*Mentor code*/
 const apiKey = "5ae2e3f221c38a28845f05b6fd99a42e5582bdb2ab7d5fae38fc21a0";
     function apiGet(method, query) {
       return new Promise(function(resolve, reject) {
@@ -17,7 +18,9 @@ const apiKey = "5ae2e3f221c38a28845f05b6fd99a42e5582bdb2ab7d5fae38fc21a0";
           });
       });
     }
+/**/
 
+/*My Code*/
  function quiz(){
     var continent = document.querySelector('input[id="continent"]:checked').value;
     var language = document.querySelector('input[id="language"]:checked').value;
@@ -100,8 +103,8 @@ document.getElementById("link4").innerHTML = answer4;
 document.getElementById("link5").innerHTML = answer5;
 document.getElementById("link6").innerHTML = answer6;
 document.getElementById("link7").innerHTML = answer7;
-
-
+/**/
+/*From W3schools, stackoverflow,etc.*/
 var btn = document.getElementsByClassName("modal-button")
 
 var modals = document.querySelectorAll('.modal');
@@ -146,3 +149,4 @@ return
   }
   })
   })}
+/**/

@@ -2,10 +2,14 @@
 <html lang="en">
   <head>
    <title>Travel</title>
+   <!-- online code -->
    <meta name="viewport" content="width=device-width, initial-scale=1">
+       <!-- -->
+       <!-- Mentor code-->
    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+       <!-- -->
    <script type="text/javascript" src="pioneerprize.js"></script>
-
+   <!-- My code -->
   </head>
 
 
@@ -67,9 +71,9 @@
 <br>
 <br>
   <button onclick="quiz()">submit</button>
+   <!-- -->
 
-
-
+   <!-- Code I modified from online code -->
 <p id="link" class="modal-button" href="#myModal1"></p>
 <div id="myModal1" class="modal">
   <div class="modal-content">
@@ -356,7 +360,8 @@ align-items: center;
     color: white;
 }
 </style>
-
+   <!-- -->
+       <!-- My code -->
   <br>
   <br>
     <form>
@@ -367,3 +372,4 @@ align-items: center;
     </form>
   </body>
 </html>
+   <!-- -->
